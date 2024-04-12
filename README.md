@@ -70,5 +70,15 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-## Vite 
-npm run dev
+## Note personali 
+frontend ==> npm i
+frontend ==> npm run dev
+
+## Alcuni comandi
+php artisan
+php artisan serve
+php artisan help
+php artisan help qualcosa (p.es. db)
+php artisan about
+php artisan docs
+
